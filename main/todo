@@ -1,0 +1,3 @@
+update both writes and prep writes to use the proper nvs
+  -> normal write, make sure buffer is properly sized.
+// make sure that the GET reqeust does not use cache
