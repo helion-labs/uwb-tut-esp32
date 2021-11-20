@@ -1,0 +1,12 @@
+gnore swap files
+.swp
+.swq
+.swo
+.swn
+
+
+#ignore the build directory
+/build
+/main/build
+/main/aws_clientcredential.h
+/main/aws_clientcredential_keys.h
